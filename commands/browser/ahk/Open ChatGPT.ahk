@@ -1,0 +1,1 @@
+Run "https://chatgpt.com/?model=auto"
